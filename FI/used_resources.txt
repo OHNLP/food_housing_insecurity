@@ -1,0 +1,9 @@
+./context/contextRule.txt
+./posthoc_settings.json
+./regexp/resources_regexp_rechatfood.txt
+./regexp/resources_regexp_rechathousing.txt
+./regexp/resources_regexp_relitfood.txt
+./regexp/resources_regexp_relithousing.txt
+./regexp/resources_regexp_reumlsfood.txt
+./regexp/resources_regexp_reumlshousing.txt
+./rules/resources_rules_matchrules.txt

@@ -1,0 +1,8 @@
+RULENAME="cm_r_chatfood",REGEXP="\b(?:%rechatfood)\b",LOCATION="",NORM="chatfood"
+RULENAME="cm_r_chathousing",REGEXP="\b(?:%rechathousing)\b",LOCATION="",NORM="chathousing"
+
+RULENAME="cm_r_litfood",REGEXP="\b%relitfood\b",LOCATION="",NORM="litfood"
+RULENAME="cm_r_lithousing",REGEXP="\b%relithousing\b",LOCATION="",NORM="lithousing"
+
+RULENAME="cm_r_umlsfood",REGEXP="\b%reumlsfood\b",LOCATION="",NORM="umlsfood"
+RULENAME="cm_r_umlshousing",REGEXP="\b%reumlshousing\b",LOCATION="",NORM="umlshousing"
